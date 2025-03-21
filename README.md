@@ -22,5 +22,21 @@
 <br>
   
  [![Krish’s github stats](https://github-readme-stats.vercel.app/api?username=krishpatel1905&theme=radical&card_width=900&card_height=400)](https://github.com/krishpatel1905)
+ ## 🏆 My HackerRank Badges
+
+<p>
+    <a href="https://www.hackerrank.com/profile/24ce084_krish" target="_blank">
+        <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank" alt="HackerRank Profile">
+    </a>
+</p>
+
+### My Achievements:
+
+<p>
+    <img src="https://your-uploaded-image-link.com" alt="Problem Solving Badge" width="150">
+    <img src="https://your-uploaded-image-link.com" alt="Python Badge" width="150">
+    <img src="https://your-uploaded-image-link.com" alt="SQL Badge" width="150">
+</p>
+
 
 </div>
