@@ -30,13 +30,7 @@
     </a>
 </p>
 
-### My Achievements:
 
-<p>
-    <img src="https://your-uploaded-image-link.com" alt="Problem Solving Badge" width="150">
-    <img src="https://your-uploaded-image-link.com" alt="Python Badge" width="150">
-    <img src="https://your-uploaded-image-link.com" alt="SQL Badge" width="150">
-</p>
 
 
 </div>
