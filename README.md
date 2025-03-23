@@ -29,58 +29,12 @@
         <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank" alt="HackerRank Profile">
     </a>
 </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Skills</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-            background: #f4f4f4;
-            color: #333;
-        }
-        .skill {
-            display: inline-block;
-            margin: 20px;
-            padding: 15px 30px;
-            background: #fff;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-            border-radius: 8px;
-            transition: 0.3s;
-        }
-        .skill:hover {
-            transform: translateY(-5px);
-        }
-        img {
-            width: 40px;
-            height: 40px;
-        }
-        h2 {
-            font-size: 18px;
-            margin: 10px 0 5px;
-        }
-    </style>
-</head>
-<body>
+</p>
+<div align="center"> 
 
-<h1>My Skills</h1>
-
-<div class="skill">
-    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C">
-    <h2>C Language</h2>
-</div>
-
-<div class="skill">
-    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132209.png" alt="C++">
-    <h2>C++ Language</h2>
-</div>
-
-</body>
-</html>
+ <h2 align="center">⚡ 💻 SKILL 💻 ⚡</h2>
+        
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C)     ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
 
 
 
