@@ -27,7 +27,20 @@
   </tr>
 </table>
 
+<!-- 🚀 Tech Stack -->
+<div align="center">
+  <h2>🚀 Tech Stack</h2>
 
+  <strong>Languages & Markup:</strong><br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  
+  <strong>Tools & IDEs:</strong><br>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 
 <h2 align="center">⚡ Streaks ⚡</h2>
@@ -77,9 +90,7 @@
 </p>
 <div align="center"> 
 
- <h2 align="center">⚡ 💻 SKILL 💻 ⚡</h2>
-        
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C)     ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=blue)
+
 
 
 
