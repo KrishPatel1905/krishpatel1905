@@ -72,7 +72,7 @@
 <!-- 🚀 Languages -->
 <div align="center">
   <h2>🚀 Languages I Use</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishPatel1905&layout=compact&theme=radical&hide_border=true&border_radius=20" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishPatel1905&layout=compact&theme=radical&hide_border=true&border_radius=20" width="30%" />
 </div>
 
 ---
