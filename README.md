@@ -1,3 +1,35 @@
+<h1 align="center">Hi 👋, I'm Krish Patel</h1>
+<h3 align="center">A passionate programmer from India.</h3>
+
+
+
+
+---
+
+
+<br>
+<table style="border: none;" >
+  <tr>
+    <td>
+      
+  ### 🛠️ About Me:
+- 🔭 I’m currently working on a : **Empowering myself**  
+- 🌱 I’m currently learning: **Web development **  
+
+- 💡 Ask me about: **C++, IoT, web development,**    
+- ⚡ Fun fact: I enjoy solving errors and diving deep into C++!
+      
+    </td>
+    <td>
+      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl4eWFtY24zZXllMW9wbXFrY3o4bGI1MDIwNXphdGFsNHp4cnV3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+    </td>
+    
+  </tr>
+</table>
+
+
+
+
 <h2 align="center">⚡ Streaks ⚡</h2>
 <br />
 <p align=center>
