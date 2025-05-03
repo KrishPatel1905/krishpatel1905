@@ -54,6 +54,19 @@
 <br>
   
  [![Krish’s github stats](https://github-readme-stats.vercel.app/api?username=krishpatel1905&theme=radical&card_width=900&card_height=400)](https://github.com/krishpatel1905)
+ ---
+
+<!-- 🚀 Languages -->
+<div align="center">
+  <h2>🚀 Languages I Use</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishPatel1905&layout=compact&theme=radical&hide_border=true&border_radius=20" width="50%" />
+</div>
+
+---
+
+
+ 
+ 
  ## 🏆 My HackerRank Badges
 
 <p>
