@@ -36,6 +36,32 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
+  ## 🏆 Coder Achievements
+
+<table>
+  <tr>
+    <td width="25%">
+     
+    </td>
+    <td>
+      <strong>🎖️ Participant – Coder’s Arcade 2.0</strong><br>
+      <em>University-level coding contest hosted on HackerRank</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60px" />
+    </td>
+    <td>
+      <strong>🥈 5-star C++ badge on HackerRank</strong><br>
+      <a href="https://www.hackerrank.com/profile/24ce084_krish" target="_blank">
+        <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=flat&logo=hackerrank" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
   
   <strong>Tools & IDEs:</strong><br>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
