@@ -39,7 +39,7 @@
 ## 🏆 Coder Achievements
 
 <table>
-
+  <tr>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="60px" />
     </td>
