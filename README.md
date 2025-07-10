@@ -81,7 +81,7 @@
   <h2 align="center">⚡ Contributions ⚡</h2>
   <br>
   
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishpatel1905&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="100%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishpatel1905&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" />
    <br>
    
 </p>
