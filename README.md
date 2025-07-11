@@ -77,7 +77,7 @@
 
 ---
 
-<h2 align="center">🌈 Colorful Contribution Graph</h2>
+<h2 align="center"> Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishpatel1905&theme=tokyo-night&bg_color=0d1117&color=FF6AC1&line=5D9CEC&point=FAD000&hide_border=true" width="90%" />
 </p>
