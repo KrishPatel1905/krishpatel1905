@@ -67,13 +67,11 @@
 
 ---
 
-<h2 align="center">⚡ Streaks ⚡</h2>
+<h2 align="center">⚡ Streaks ⚡</h2> 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=krishpatel1905&theme=dark&card_width=900&card_height=300" />
-    <img src="https://streak-stats.demolab.com?user=krishpatel1905&theme=radical" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=krishpatel1905&theme=tokyonight&mode=weekly&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
 
 ---
 
