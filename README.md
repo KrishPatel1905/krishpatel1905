@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on: **Empowering myself**  
 - 🌱 I’m currently learning: **Web Development**  
-- 💡 Ask me about: **C++, IoT, Web Development**  
+- 💡 Ask me about: **C++, IoT, Web Development,Java**  
 - ⚡ Fun fact: I enjoy solving errors and diving deep into C++!
 
     </td>
