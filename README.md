@@ -27,30 +27,14 @@
 
 <div align="center">
   <h2>🚀 Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,github,vscode,c,cpp,java,python,vercel,visualstudio,sqlite" />
+</p>
 
-<strong>Languages & Markup:</strong><br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/java/" title="Java"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-
-  <a href="https://react.dev/" title="React">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-  </a>
 
 <br><br>
 
-<strong>Tools & IDEs:</strong><br>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
 
 ## 🏆 Coder Achievements
 
