@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on: **Empowering myself**  
 - 🌱 I’m currently learning: **Web Development**  
 - 💡 Ask me about: **C,C++, IoT, Web Development,Java,Phython**  
-- ⚡ Fun fact: I enjoy solving errors and diving deep into C++!
+- ⚡ Fun fact: I enjoy tinkering with databases, writing queries that feel like solving puzzles!
 
     </td>
     <td>
