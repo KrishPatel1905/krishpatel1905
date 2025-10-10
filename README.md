@@ -12,7 +12,7 @@
 ### 🛠️ About Me:
 
 - 🔭 I’m currently working on: **Empowering myself**  
-- 🌱 I’m currently learning: **Web Development  &&  AI/ML**  
+- 🌱 I’m currently learning: **Web Development  &&  AI/ML & DATA SCIENCE**  
 - 💡 Ask me about: **C,C++, IoT, Web Development,Java,Phython**  
 - ⚡ Fun fact: I enjoy tinkering with databases, writing queries that feel like solving puzzles!
 
