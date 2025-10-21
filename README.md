@@ -4,6 +4,16 @@
 ---
 
 <br>
+<div align="center">
+
+  <img
+    src="https://komarev.com/ghpvc/?username=KrishPatel1905&label=Profile%20views&color=brightgreen&style=flat"
+    alt="Profile views"
+    style="border-radius:6px;"
+  />
+
+</div>
+
 
 <table style="border: none;">
   <tr>
