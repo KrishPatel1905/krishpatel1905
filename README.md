@@ -19,13 +19,19 @@
   <tr>
     <td>
 
-### 🛠️ About Me:
+###🛠️🛠️ About Me
 
-- 🔭 I’m currently working on: **Empowering myself**  
-- 🌱 I’m currently learning: **Web Development  &&  AI/ML & DATA SCIENCE**  
-- 💡 Ask me about: **C,C++, IoT, Web Development,Java,Phython**  
-- ⚡ Fun fact: I enjoy tinkering with databases, writing queries that feel like solving puzzles!
+🔭 Currently Working On:
+Building a strong technical foundation by continuously improving my skills and working on practical, real-world projects.
 
+🌱 Currently Learning:
+Web Development, Artificial Intelligence & Machine Learning, and Data Science.
+
+💡 Ask Me About:
+C, C++, Java, Python, IoT, Web Development, and Database Fundamentals.
+
+⚡ Fun Fact:
+As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, and transforming raw data into meaningful insights that drive better decisions.
     </td>
     <td>
       <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl4eWFtY24zZXllMW9wbXFrY3o4bGI1MDIwNXphdGFsNHp4cnV3NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
