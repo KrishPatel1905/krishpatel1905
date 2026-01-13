@@ -75,7 +75,6 @@
 
 ---
 
-<h2 align="center">💡 Programming Wisdom</h2>
 
 
 ---
