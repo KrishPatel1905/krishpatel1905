@@ -85,10 +85,10 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <h2>🔥 GitHub Streak 🔥</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishpatel1905&theme=tokyonight&hide_border=true&border_radius=20" width="60%" />
-</div>
+</div> -->
 
 ---
 
