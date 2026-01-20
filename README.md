@@ -25,7 +25,7 @@
 Building a strong technical foundation by continuously improving my skills and working on practical, real-world projects.
 
 🌱 Currently Learning:
-Web Development, Artificial Intelligence & Machine Learning, and Data Science.
+Web Development, Artificial Intelligence & Machine Learning , and Data Science.
 
 💡 Ask Me About:
 C, C++, Java, Python, IoT, Web Development, and Database Fundamentals.
