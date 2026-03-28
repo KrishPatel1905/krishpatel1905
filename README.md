@@ -101,8 +101,7 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 </p>
 
 ---
-## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/KrishPatel1905?ext=heatmap)
+
 
 <div align="center">
 <h2>📈 Github Stats 📈</h2>
