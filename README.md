@@ -42,10 +42,37 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 ---
 
 <div align="center">
-  <h2>🚀 Tech Stack</h2>
+
+<h2>🚀 Tech Stack</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,github,vscode,c,cpp,java,python,vercel,visualstudio,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,github,vscode,c,cpp,java,python,vercel,visualstudio,sqlite,tensorflow" />
 </p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+</div>
+
 
 
 
