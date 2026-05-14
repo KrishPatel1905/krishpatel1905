@@ -115,6 +115,23 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 
 
 ---
+---
+
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=krishpatel1905&theme=youtube-dark&card_width=700px&card_height=200px" width="95%" />
+
+<br><br>
+
+  <!-- 🗺️ Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishpatel1905&theme=react-dark&hide_border=true&area=true" width="95%" />
+</div>
+
+---
+
+
+
 
 <h2 align="center">📊 Contribution Graph</h2>
 
@@ -133,6 +150,17 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 </p>
 
 ---
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishpatel1905&theme=darkhub&margin-w=15&margin-h=10&row=2&column=4" />
+</div>
+
+---
+
+
 
 <div align="center">
 
