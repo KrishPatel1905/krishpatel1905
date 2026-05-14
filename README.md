@@ -92,7 +92,7 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 
 ---
 
-## 🏆 Coding Achievements
+
 
 
 # 🏆 Coding Achievements
@@ -103,6 +103,15 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
   src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" 
   width="70"
 />
+
+### 🥈 5-Star C++ Badge on HackerRank
+
+<a href="https://www.hackerrank.com/profile/24ce084_krish" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/HackerRank-Visit_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+    alt="HackerRank Profile"
+  />
+</a>
 
 
 ---
