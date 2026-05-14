@@ -124,9 +124,7 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 
 <br><br>
 
-  <!-- 🗺️ Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishpatel1905&theme=react-dark&hide_border=true&area=true" width="95%" />
-</div>
+
 
 ---
 
