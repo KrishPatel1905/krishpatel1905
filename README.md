@@ -154,20 +154,18 @@ As a Data Science enthusiast, I enjoy exploring datasets, uncovering patterns, a
 
 ---
 
-## 🏆 My HackerRank Badges
+# 🏆 My HackerRank Badges
 
-<p align="center">
+<div align="center">
 
-  <a href="https://www.hackerrank.com/profile/24ce084_krish" target="_blank">
+<a href="https://www.hackerrank.com/profile/24ce084_krish" target="_blank">
+  <img
+    src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
+    alt="HackerRank Profile"
+  />
+</a>
 
-    <img
-      src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"
-      alt="HackerRank Profile"
-    />
-
-  </a>
-
-</p>
+</div>
 
 ---
 
